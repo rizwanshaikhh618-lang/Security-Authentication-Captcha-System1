@@ -16,5 +16,5 @@ This project is an automated security tool developed for **OJT-3**. It generates
 * ### Installation
 To install the necessary dependencies, run:
 ```bash
-pip install -r requirements.txt
-
+ ## Clone the Repository
+Open your terminal or command prompt and run the following command:
