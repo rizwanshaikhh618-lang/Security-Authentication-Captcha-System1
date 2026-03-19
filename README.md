@@ -13,4 +13,8 @@ This project is an automated security tool developed for **OJT-3**. It generates
 ##  Technology Stack
 * Python 3.x
 * Pillow (PIL) Library
+* ### Installation
+To install the necessary dependencies, run:
+```bash
+pip install -r requirements.txt
 
